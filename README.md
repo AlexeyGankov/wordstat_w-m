@@ -28,3 +28,4 @@ Python 3.10, PostgreSQL, Selenium<br>
 
 Февраль 2023 года – первый релиз<br>
 Март 2023 года – Переход на новый формат файла keywords.xls, оптимизация алгоритма добавления данных в БД<br>
+https://github.com/AlexeyGankov/wordstat_w-m/blob/ff835be4942f722888ea43d924c69c6a9753d949/ws_weeks_list.ipynb#L13-L21
